@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Romany-Rafat.
+- 👀 I’m interested in mobile application development. 
+- 🌱 Currently, I'm learning software engineering fundamentals. 
+- 💞️ I'm looking to collaborate on projects.  
+- 📫 You can reach me at romanyraafat96@gmail.com.
